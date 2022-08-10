@@ -41,6 +41,18 @@
     - horizontaly: mid center
     - verticaly: mid center
 
+## Icon with full background
+- Icon without bg:
+  - size: 500x500
+  - center:
+    - horizontaly: mid center
+    - verticaly: mid center
+- Full background:
+  - size: 1000x1000
+  - center:
+    - horizontaly: mid center
+    - verticaly: mid center
+
 # Assets
 
 ## Icon background
