@@ -1,2 +1,0 @@
-Avatar: #3f3f3f
-Background: #e5e5e0
